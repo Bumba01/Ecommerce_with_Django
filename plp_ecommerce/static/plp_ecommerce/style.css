@@ -1,0 +1,11 @@
+body {
+    background: white url("./media/image/R.jpeg") no-repeat;
+}
+
+h1 {
+    color: brown;
+}
+
+a, p, h2, h3 {
+    color: blueviolet;
+}
